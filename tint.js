@@ -1,0 +1,1 @@
+var mainWindow = require('./lib/mainWindow')().run();
